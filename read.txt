@@ -1,0 +1,2 @@
+Crée une IA qui permet de prendre le controle complet de mon odrinateur 
+C'est a dire je pourrais communiqué avec elle par commande vocal ou par écrit en lui demandant d'ouvrir telle ou telle application par exemple ou de me faire une recherche sur internet ou de me faire une tache

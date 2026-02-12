@@ -1,0 +1,10 @@
+customtkinter
+SpeechRecognition
+gTTS
+pygame
+pyttsx3
+pyaudio
+thefuzz
+groq
+yt-dlp
+python-dotenv
